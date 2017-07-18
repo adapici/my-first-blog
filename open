@@ -1,0 +1,5 @@
+/dev/stdin:                  very short file (no magic)
+mysite/settings.py: Python script, ASCII text executable
+TIME_ZONE:          cannot open `TIME_ZONE' (No such file or directory)
+=:                  cannot open `=' (No such file or directory)
+US/CENTRAL:         cannot open `US/CENTRAL' (No such file or directory)
